@@ -1,0 +1,9 @@
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\bin\Release\Paint.exe.config
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\bin\Release\Paint.exe
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\bin\Release\Paint.pdb
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\obj\Release\Paint.Form1.resources
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\obj\Release\Paint.Properties.Resources.resources
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.cache
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\obj\Release\Paint.csproj.CoreCompileInputs.cache
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\obj\Release\Paint.exe
+E:\Learning\Term 4\Windows Programming\Midterm\Paint\Paint\obj\Release\Paint.pdb
